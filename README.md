@@ -1,1 +1,1 @@
-# yapsterdocs
+# public yapsterdocs
